@@ -1,0 +1,2 @@
+# PokeMMO-Strings-Manager
+test
