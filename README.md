@@ -1,2 +1,1 @@
-# PokeMMO-Strings-Manager
-test
+# PokeMMO Manager
