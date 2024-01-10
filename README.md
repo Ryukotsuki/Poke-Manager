@@ -47,6 +47,7 @@ Ryukotsuki's PokeMMO Manager is a utility designed to enhance your PokeMMO gamin
 If you find this application helpful and would like to support the development, consider donating. Your support is greatly appreciated.
 
 - [Donate via Streamlabs](https://streamlabs.com/ryukotsukii/tip)
-- [![discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594fddd654fc29fcc07359_cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.com/invite/ADFufST3cY)
+
+ [![discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594fddd654fc29fcc07359_cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.com/invite/ADFufST3cY)
 
 *Disclaimer: This application is not affiliated with PokeMMO or its developers. It is an independent utility created to enhance the user experience.*
