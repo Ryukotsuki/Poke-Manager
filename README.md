@@ -39,11 +39,14 @@ This application provides various features, including downloading additional con
  5. **Encounter Counters:**
    - Stick to one encounter counter to prevent conflicts with others. Manually uninstall archetype and montally encounter counters using their respective uninstallers. Gilans Encounter Counter is a recommended choice for its overall reliability also gilans is the only one that works with my ReShade Preset.
 
-6. **Version Check:**
+ 6. **Strings:**
+ - It's important to use only one set of strings at a time, uninstall strings if you want to try another set of strings.
+
+7. **Version Check:**
    - PokeMMO Manager automatically checks for updates on startup.
    - If a new version is available, a prompt will ask if you want to update.
 
-7. **Uninstallation:**
+8. **Uninstallation:**
    - Easily uninstall installed strings or ReShade using the "Uninstall" button.
 
 &nbsp;
