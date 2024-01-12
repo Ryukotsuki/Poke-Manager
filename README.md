@@ -37,7 +37,7 @@ This application provides various features, including downloading additional con
    - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, Rudes Strings, ReShade, and Mods these buttons will extract the downloaded zip files to install them properly
   
  5. **Encounter Counters**
-    - Stick to one encounter counter to prevent conflicts with others. Manually uninstall archetype and montally encounter counters using their respective uninstallers. Gilans Encounter Counter is a recommended choice for its overall reliability also gilans is the only one that works with my ReShade Preset.
+    - Stick to one encounter counter to prevent conflicts with others. Manually uninstall archetype encounter counter using their respective uninstaller. Gilans Encounter Counter is a recommended choice for its overall reliability also gilans is the only one that works with my ReShade Preset.
 
  6. **Strings**
     - It's important to use only one set of strings at a time, uninstall strings if you want to try another set of strings.
