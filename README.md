@@ -28,22 +28,22 @@ This application provides various features, including downloading additional con
 2. **Directory:**
    - The application must be placed in the main PokeMMO folder to work properly you can create a shortcut to the desktop after you have placed it in the proper folder
 
-1. **Launching:**
+3. **Launching:**
    - Click the "Start PokeMMO" button to launch the PokeMMO game.
    - Optionally, start encounter counters for Gilans, Archetype, and Montally with the dedicated buttons.
 
-2. **Download Center:**
+4. **Download Center:**
    - Access the "Download" button to open a menu with options for downloading essential content like strings, encounter counters, ReShade, and mods.
    - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, Rudes Strings, ReShade, and Mods these buttons will extract the downloaded zip files to install them properly
   
- 4. **Encounter Counters:**
-   - When using an encounter counter stick to one because it will break the functionality of the other encounters I recommend Gilans Encounter Counter.
+ 5. **Encounter Counters:**
+   - Stick to one encounter counter to prevent conflicts with others. Manually uninstall archetype and montally encounter counters using their respective uninstallers. Gilans Encounter Counter is a recommended choice for its overall reliability also gilans is the only one that works with my ReShade Preset.
 
-3. **Version Check:**
+6. **Version Check:**
    - PokeMMO Manager automatically checks for updates on startup.
    - If a new version is available, a prompt will ask if you want to update.
 
-4. **Uninstallation:**
+7. **Uninstallation:**
    - Easily uninstall installed strings or ReShade using the "Uninstall" button.
 
 &nbsp;
