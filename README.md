@@ -32,7 +32,10 @@ Ryukotsuki's PokeMMO Manager is a utility designed to enhance your PokeMMO gamin
 
 2. **Download Center:**
    - Access the "Download" button to open a menu with options for downloading essential content like strings, encounter counters, ReShade, and mods.
-   - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, Rudes Strings, ReShade and Mods these buttons will extract the downloaded zip files to install them properly
+   - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, Rudes Strings, ReShade, and Mods these buttons will extract the downloaded zip files to install them properly
+  
+ 4. **Encounter Counters:**
+   - When using an encounter counter stick to one because it will break the functionality of the other encounters I recommend Gilans Encounter Counter.
 
 3. **Version Check:**
    - PokeMMO Manager automatically checks for updates on startup.
