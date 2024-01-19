@@ -48,6 +48,11 @@ This application provides various features, including downloading additional con
 
 8. **Uninstallation**
    - Easily uninstall installed strings or ReShade using the "Uninstall" button.
+  
+9. **Information**
+- My program is dependent on the proper organization of directories, files, folders, and naming conventions. It is crucial to utilize the program for downloading files to ensure seamless functionality.
+
+- To ensure the proper functionality of my program, it's important to note that your antivirus/firewall might potentially flag it as a virus which is a false positive. To remedy this, please grant necessary permissions within your antivirus/firewall settings.
 
 &nbsp;
 ## Support and Donations
