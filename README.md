@@ -27,7 +27,7 @@ This application provides various features, including downloading additional con
    - Download the latest release from the [GitHub releases page](https://github.com/Ryukotsuki/PokeMMO-Manager/releases).
  
 2. **Directory**
-   - The application must be placed in the main PokeMMO folder to work properly you can create a shortcut to the desktop after you have placed it in the proper folder
+   - It is essential to place the application in the main PokeMMO folder to ensure proper functionality. After placing it, a desktop shortcut can be created for easy accessibility.
 
 3. **Launching**
    - Click the "Start PokeMMO" button to launch the PokeMMO game.
@@ -35,10 +35,10 @@ This application provides various features, including downloading additional con
 
 4. **Download Center**
    - Access the "Download" button to open a menu with options for downloading essential content like strings, encounter counters, ReShade, and mods.
-   - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, Rudes Strings, ReShade, and Mods these buttons will extract the downloaded zip files to install them properly
+   - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, and Rudes Strings these buttons will extract the downloaded zip files to install them properly
   
  5. **Encounter Counters**
-    - Please use only one encounter counter to avoid conflicts with other counters. If you wish to switch encounter counters, manually uninstall the current one using its dedicated uninstaller. Note that the Gilans Encounter Counter is the only compatible option with my ReShade Preset.
+    - Please make sure to use only one encounter counter at a time to avoid any conflicts with the other counters. If you need to switch to a different encounter counter, please make sure to manually uninstall the current one using its dedicated uninstaller. It's important to note that the Gilans Encounter Counter is the only option that is compatible with my ReShade Preset.
 
  6. **Strings**
     - It's important to use only one set of strings at a time, uninstall strings if you want to try another set of strings.
