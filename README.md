@@ -51,16 +51,13 @@ This application provides various features, including downloading additional con
    - Easily uninstall installed strings or ReShade using the "Uninstall" button.
   
 9. **Information**
-- My program is dependent on the proper organization of directories, files, folders, and naming conventions. It is crucial to utilize the program for downloading files to ensure seamless functionality.
+   - My program is dependent on the proper organization of directories, files, folders, and naming conventions. It is crucial to utilize the program for downloading files to ensure seamless functionality.
 
-- To ensure the proper functionality of my program, it's important to note that your antivirus/firewall might potentially flag it as a virus which is a false positive. To remedy this, please grant necessary permissions within your antivirus/firewall settings.
+   - To ensure the proper functionality of my program, it's important to note that your antivirus/firewall might potentially flag it as a virus which is a false positive. To remedy this, please grant necessary permissions within your antivirus/firewall settings.
 
-&nbsp;
 ## Support and Donations
-
-If you find this application helpful and would like to support the development, consider donating. Your support is greatly appreciated.
-
-- [Donate via Streamlabs](https://streamlabs.com/ryukotsukii/tip)
+   - If you find this application helpful and would like to support the development, consider donating. Your support is greatly appreciated.
+   - [Donate via Streamlabs](https://streamlabs.com/ryukotsukii/tip)
 
  [![discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594fddd654fc29fcc07359_cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.gg/HdfjKbPNc9)
 
