@@ -41,7 +41,7 @@ This application provides various features, including downloading additional con
     - Please make sure to use only one encounter counter at a time to avoid any conflicts with the other counters. If you need to switch to a different encounter counter, please make sure to manually uninstall the current one using its dedicated uninstaller. It's important to note that the Gilans Encounter Counter is the only option that is compatible with my ReShade Preset.
 
  6. **Strings**
-    - It's important to use only one set of strings at a time, uninstall strings if you want to try another set of strings.
+    - It's important to use only one set of strings at a time, uninstall strings if you want to try another set of strings, these are only English strings.
 
 7. **Version Check**
    - Poke Manager automatically checks for updates on startup.
