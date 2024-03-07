@@ -1,4 +1,4 @@
-![infommo](https://github.com/Ryukotsuki/PokeMMO-Manager/assets/50199421/20578647-d019-4ba3-b227-63a23ec19c56)
+![mmologos](https://github.com/Ryukotsuki/Poke-Manager/assets/50199421/0dce132b-8882-4ca0-9719-43e03903c6e9)
 
 Poke Manager is a utility designed to enhance your PokeMMO gaming experience by making things simple.
 
@@ -65,3 +65,5 @@ If you find this application helpful and would like to support the development, 
  [![discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594fddd654fc29fcc07359_cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.com/invite/ADFufST3cY)
 
 *Disclaimer: This application is not affiliated with PokeMMO or its developers. It is an independent utility created to enhance the user experience.*
+
+
