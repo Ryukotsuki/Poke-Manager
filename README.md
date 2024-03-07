@@ -1,6 +1,6 @@
 ![infommo](https://github.com/Ryukotsuki/PokeMMO-Manager/assets/50199421/20578647-d019-4ba3-b227-63a23ec19c56)
 
-PokeMMO Manager is a utility designed to enhance your PokeMMO gaming experience by making things simple.
+Poke Manager is a utility designed to enhance your PokeMMO gaming experience by making things simple.
 
 This application provides various features, including downloading additional content, managing counters, and launching specific components for the game [PokeMMO](https://pokemmo.com/)
 
