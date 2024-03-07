@@ -44,7 +44,7 @@ This application provides various features, including downloading additional con
     - It's important to use only one set of strings at a time, uninstall strings if you want to try another set of strings.
 
 7. **Version Check**
-   - PokeMMO Manager automatically checks for updates on startup.
+   - Poke Manager automatically checks for updates on startup.
    - If a new version is available, a prompt will ask if you want to update.
 
 8. **Uninstallation**
