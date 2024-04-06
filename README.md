@@ -1,3 +1,13 @@
+<div align="center">
+   
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Downloads][downloads-shield]][downloads-url]
+
+</div>
+
 ![mmologos](https://github.com/Ryukotsuki/Poke-Manager/assets/50199421/0dce132b-8882-4ca0-9719-43e03903c6e9)
 
 Poke Manager is a utility designed to enhance your PokeMMO gaming experience by making things simple.
@@ -34,7 +44,7 @@ This application provides various features, including downloading additional con
    - Optionally, start encounter counters for Gilans, Archetype, and Montally with the dedicated buttons.
 
 4. **Download Center**
-   - Access the "Download" button to open a menu with options for downloading essential content like strings, encounter counters, ReShade, and mods.
+   - Access the "Download" button to open a menu with options for downloading essential content like strings, encounter counters, themes, ReShade, and mods.
    - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, and Rudes Strings these buttons will extract the downloaded zip files to install them properly
   
  5. **Encounter Counters**
@@ -65,4 +75,15 @@ This application provides various features, including downloading additional con
 
 *Disclaimer: This application is not affiliated with PokeMMO or its developers. It is an independent utility created to enhance the user experience.*
 
+
+[contributors-shield]: https://img.shields.io/github/contributors/Ryukotsuki/Poke-Manager.svg?style=for-the-badge
+[contributors-url]: https://github.com/ryukotsuki/poke-manager/graphs/contributors
+[downloads-shield]: https://img.shields.io/github/downloads/Ryukotsuki/Poke-Manager/total?style=for-the-badge
+[downloads-url]: https://github.com/Ryukotsuki/Poke-Manager/releases
+[forks-shield]: https://img.shields.io/github/forks/Ryukotsuki/Poke-Manager.svg?style=for-the-badge
+[forks-url]: https://github.com/Ryukotsuki/Poke-Manager/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ryukotsuki/Poke-Manager.svg?style=for-the-badge
+[stars-url]: https://github.com/Ryukotsuki/Poke-Manager/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ryukotsuki/Poke-Manager.svg?style=for-the-badge
+[issues-url]: https://github.com/Ryukotsuki/Poke-Manager/issues
 
