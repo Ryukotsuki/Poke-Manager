@@ -19,7 +19,7 @@ This application provides various features, including downloading additional con
 
 🖥️ **Auto Starter:** Launch PokeMMO or any Pokémon encounter counter with a single click.
 
-🌐 **Download Center:** Quickly download and install essential add-ons such as strings, encounter counters, themes, ReShade, and mods to enhance your gameplay.
+🌐 **Download Center:** Quickly download and install essential add-ons such as ReShade, strings, encounter counters, themes, and mods to enhance your gameplay.
 
 🚀 **Version Check:** Stay up-to-date with automatic version checks, ensuring you're always using the latest features and improvements.
 
@@ -44,7 +44,7 @@ This application provides various features, including downloading additional con
    - Optionally, start encounter counters for Gilans, Archetype, and Montally with the dedicated buttons.
 
 4. **Download Center**
-   - Access the "Download" button to open a menu with options for downloading essential content like strings, encounter counters, themes, ReShade, and mods.
+   - Access the "Download" button to open a menu with options for downloading essential content like ReShade, strings, encounter counters, themes, and mods.
    - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, and Rudes Strings these buttons will extract the downloaded zip files to install them properly
   
  5. **Encounter Counters**
