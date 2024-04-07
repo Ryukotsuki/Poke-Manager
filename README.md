@@ -19,7 +19,7 @@ This application provides various features, including downloading additional con
 
 🖥️ **Auto Starter:** Launch PokeMMO or any Pokémon encounter counter with a single click.
 
-🌐 **Download Center:** Quickly download and install essential add-ons such as strings, encounter counters, ReShade, and mods to enhance your gameplay.
+🌐 **Download Center:** Quickly download and install essential add-ons such as strings, encounter counters, themes, ReShade, and mods to enhance your gameplay.
 
 🚀 **Version Check:** Stay up-to-date with automatic version checks, ensuring you're always using the latest features and improvements.
 
