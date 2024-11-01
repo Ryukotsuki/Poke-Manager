@@ -26,7 +26,7 @@ This application provides various features, including downloading additional con
 🎨 **ReShade:** Elevate your PokeMMO visuals with my custom ReShade preset, enhancing colors for a more captivating and immersive gaming experience.
 
 ## Media
-![PokeManager](https://github.com/user-attachments/assets/db59d3b9-f577-4019-a95b-8a0c87948f5a)
+![PokeManager](https://github.com/user-attachments/assets/22d96e08-ed29-47ed-b9b1-9dc0adeaabf7)
 
 ![ReShade On Off](https://github.com/Ryukotsuki/PokeMMO-Manager/assets/50199421/2b98cbdf-8b65-4721-9202-f622b64c72fa)
 
