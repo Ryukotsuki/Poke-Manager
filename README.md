@@ -71,7 +71,7 @@ This application provides various features, including downloading additional con
 
   If you need help or have suggestions for my tool, please join the Discord.
   
- [![discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594fddd654fc29fcc07359_cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.gg/HdfjKbPNc9)
+[![discord](https://github.com/user-attachments/assets/09fb5822-5e82-431b-b9cc-bbd4111ba48b)](https://discord.gg/HdfjKbPNc9)
 
 *Disclaimer: This application is not affiliated with PokeMMO or its developers. It is an independent utility created to enhance the user experience.*
 
