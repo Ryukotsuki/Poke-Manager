@@ -47,18 +47,18 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 
 ## Getting Started with Poke Manager
 
-### 1. **Download**  
+###  **Download**  
 - Download the latest release from the [GitHub Releases page](https://github.com/Ryukotsuki/PokeMMO-Manager/releases).
 
-### 2. **Directory**  
+###  **Directory**  
 - Place the application in the main **PokeMMO** folder to ensure proper functionality.
 - After setup, you can create a desktop shortcut for easier access.
 
-### 3. **Launching**  
+###  **Launching**  
 - Click the **"Start PokeMMO"** button to launch the game.
 - Use the dedicated buttons to start encounter counters for **Gilans**, **Archetype**, and **Rens**.
 
-### 4. **Download Center**  
+###  **Download Center**  
 - Open the **"Download"** menu to access essential content.
   - Encounter counters
   - ReShade
@@ -66,28 +66,25 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
   - Strings
   - Mods
 
-### 5. **Encounter Counters**  
+###  **Encounter Counters**  
 - Use only **one encounter counter** at a time to avoid conflicts.  
 - If you want to switch counters, manually uninstall the current one using its dedicated uninstaller.  
 - **Note:** **Gilans Encounter Counter** and **Rens Encounter Counter** are compatible with my custom ReShade preset.  
 
-### 6. **Strings**  
+###  **Strings**  
 - Use only one set of strings at a time.
 - Strings provided are available in **English** only.
 
-### 7. **Version Check**
+###  **Version Check**
 - The program automatically checks for updates on startup.
 - If an update is available, a prompt will guide you through the process.
 
-### 8. **Uninstallation**
+###  **Uninstallation**
 - Use the **"Uninstall"** button to easily remove installed strings or ReShade.
 
-### 9. **Important Information**
+###  **Important Information**
 - Proper directory, file, folder, and naming organization is crucial for the program to function correctly.
 - Download files through the program to ensure seamless installation and avoid errors.
-- **Antivirus/Firewall Notice:**
-  - Your antivirus or firewall may flag the program as a virus (false positive).
-  - If this occurs, grant necessary permissions in your antivirus/firewall settings to allow the program to run.
 
 
 ## Support and Donations
