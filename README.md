@@ -69,7 +69,7 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 ### 5. **Encounter Counters**  
 - Use only **one encounter counter** at a time to avoid conflicts.  
 - If you want to switch counters, manually uninstall the current one using its dedicated uninstaller.  
-- **Note:** **Gilans Encounter Counter** and **Rens Encounter Counter** is compatible with the custom ReShade preset.  
+- **Note:** **Gilans Encounter Counter** and **Rens Encounter Counter** are compatible with my custom ReShade preset.  
 
 ### 6. **Strings**  
 - Use only one set of strings at a time.
