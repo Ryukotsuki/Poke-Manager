@@ -44,7 +44,7 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 ![ReShade On Off](https://github.com/Ryukotsuki/PokeMMO-Manager/assets/50199421/2b98cbdf-8b65-4721-9202-f622b64c72fa)
 
 
-## How to Use
+## Getting Started with Poke Manager
 
 ### 1. **Download**  
 - Download the latest release from the [GitHub Releases page](https://github.com/Ryukotsuki/PokeMMO-Manager/releases).
