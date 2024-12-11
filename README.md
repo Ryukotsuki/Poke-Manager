@@ -44,7 +44,6 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 
 ## Media
 ![PokeManager](https://github.com/user-attachments/assets/6fcf8abc-1c50-4bd1-a6c5-edee8b1c1e37)
-
 ![ReShade On Off](https://github.com/Ryukotsuki/PokeMMO-Manager/assets/50199421/2b98cbdf-8b65-4721-9202-f622b64c72fa)
 
 
