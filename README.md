@@ -24,7 +24,7 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 
 - 🌐 **Comprehensive Download Center**
   
-  Quickly download and install essential add-ons to enhance your gameplay, including:
+  Quickly download and install essential add-ons to enhance your gameplay.
   - Encounter counters
   - My ReShade preset
   - Custom themes
@@ -59,7 +59,7 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 - Use the dedicated buttons to start encounter counters for **Gilans**, **Archetype**, and **Rens**.
 
 ### 4. **Download Center**  
-- Open the **"Download"** menu to access essential content, including:
+- Open the **"Download"** menu to access essential content.
   - Encounter counters
   - ReShade
   - Themes
