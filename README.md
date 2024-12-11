@@ -21,21 +21,25 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 ## Features
 
 - 🖥️ **One-Click Auto Starter**
-  Easily launch PokeMMO or any Pokémon encounter counter with just one click.  
+
+  Easily launch PokeMMO or any Pokémon encounter counter with just one click.
 
 - 🌐 **Comprehensive Download Center**
+  
   Quickly download and install essential add-ons to enhance your gameplay, including:
   - Encounter counters
   - My ReShade preset
   - Custom themes
   - Game strings
   - Mods
+ 
+- 🎨 **Custom ReShade Preset**
+  
+  Improve your PokeMMO visuals with a tailored ReShade preset, enhancing colors for a more immersive and visually captivating experience.
 
 - 🚀 **Automatic Version Updates**
+  
   Stay updated with the latest features and improvements through automatic version checks.
-
-- 🎨 **Custom ReShade Preset**
-  Improve your PokeMMO visuals with a tailored ReShade preset, enhancing colors for a more immersive and visually captivating experience.
 
 
 ## Media
