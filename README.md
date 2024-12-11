@@ -28,7 +28,7 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
   - Encounter counters
   - My ReShade preset
   - Custom themes
-  - Game strings
+  - Custom strings
   - Mods
  
 - 🎨 **Custom ReShade Preset**
