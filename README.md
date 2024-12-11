@@ -10,8 +10,6 @@
 
 ![mmologos](https://github.com/Ryukotsuki/Poke-Manager/assets/50199421/0dce132b-8882-4ca0-9719-43e03903c6e9)
 
-# Poke Manager
-
 **Poke Manager** is a utility designed to enhance your PokeMMO gaming experience by simplifying and streamlining tasks.
 
 ---
