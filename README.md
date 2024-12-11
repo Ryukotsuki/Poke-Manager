@@ -10,70 +10,99 @@
 
 ![mmologos](https://github.com/Ryukotsuki/Poke-Manager/assets/50199421/0dce132b-8882-4ca0-9719-43e03903c6e9)
 
-Poke Manager is a utility designed to enhance your PokeMMO gaming experience by making things simple.
+# Poke Manager
 
-This application provides various features, including downloading additional content, managing counters, and launching specific components for the game [PokeMMO](https://pokemmo.com/)
+**Poke Manager** is a utility designed to enhance your PokeMMO gaming experience by simplifying and streamlining tasks.
 
+---
+
+Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about the game.
 
 ## Features
 
-🖥️ **Auto Starter:** Launch PokeMMO or any Pokémon encounter counter with a single click.
+- 🖥️ **One-Click Auto Starter**
+  Easily launch PokeMMO or any Pokémon encounter counter with just one click.  
 
-🌐 **Download Center:** Quickly download and install essential add-ons such as ReShade, strings, encounter counters, themes, and mods to enhance your gameplay.
+- 🌐 **Comprehensive Download Center**
+  Quickly download and install essential add-ons to enhance your gameplay, including:
+  - Encounter counters
+  - My ReShade preset
+  - Custom themes
+  - Game strings
+  - Mods
 
-🚀 **Version Check:** Stay up-to-date with automatic version checks, ensuring you're always using the latest features and improvements.
+- 🚀 **Automatic Version Updates**
+  Stay updated with the latest features and improvements through automatic version checks.
 
-🎨 **ReShade:** Elevate your PokeMMO visuals with my custom ReShade preset, enhancing colors for a more captivating and immersive gaming experience.
+- 🎨 **Custom ReShade Preset**
+  Improve your PokeMMO visuals with a tailored ReShade preset, enhancing colors for a more immersive and visually captivating experience.
+
 
 ## Media
-![PokeManager](https://github.com/user-attachments/assets/505c254f-c875-4767-b26f-d523329612e7)
+![PokeManager](https://github.com/user-attachments/assets/6fcf8abc-1c50-4bd1-a6c5-edee8b1c1e37)
 
 ![ReShade On Off](https://github.com/Ryukotsuki/PokeMMO-Manager/assets/50199421/2b98cbdf-8b65-4721-9202-f622b64c72fa)
 
 
 ## How to Use
 
-1. **Download**
-   - Download the latest release from the [GitHub releases page](https://github.com/Ryukotsuki/PokeMMO-Manager/releases).
- 
-2. **Directory**
-   - It is essential to place the application in the main PokeMMO folder to ensure proper functionality. After placing it, a desktop shortcut can be created for easy accessibility.
+### 1. **Download**  
+- Download the latest release from the [GitHub Releases page](https://github.com/Ryukotsuki/PokeMMO-Manager/releases).
 
-3. **Launching**
-   - Click the "Start PokeMMO" button to launch the PokeMMO game.
-   - Optionally, start encounter counters for Gilans, Archetype, and Montally with the dedicated buttons.
+### 2. **Directory**  
+- Place the application in the main **PokeMMO** folder to ensure proper functionality.
+- After setup, you can create a desktop shortcut for easier access.
 
-4. **Download Center**
-   - Access the "Download" button to open a menu with options for downloading essential content like ReShade, strings, encounter counters, themes, and mods.
-   - Once downloaded must use the buttons Bills PVE, Bills PVP, Teds Strings, and Rudes Strings these buttons will extract the downloaded zip files to install them properly
-  
- 5. **Encounter Counters**
-    - Please make sure to use only one encounter counter at a time to avoid any conflicts with the other counters. If you need to switch to a different encounter counter, please make sure to manually uninstall the current one using its dedicated uninstaller. It's important to note that the Gilans Encounter Counter is the only option that is compatible with my ReShade Preset.
+### 3. **Launching**  
+- Click the **"Start PokeMMO"** button to launch the game.
+- Use the dedicated buttons to start encounter counters for **Gilans**, **Archetype**, and **Rens**.
 
- 6. **Strings**
-    - It's important to use only one set of strings at a time, uninstall strings if you want to try another set of strings, these are only English strings.
+### 4. **Download Center**  
+- Open the **"Download"** menu to access essential content, including:
+  - Encounter counters
+  - ReShade
+  - Themes
+  - Strings
+  - Mods
 
-7. **Version Check**
-   - Poke Manager automatically checks for updates on startup.
-   - If a new version is available, a prompt will ask if you want to update.
+### 5. **Encounter Counters**  
+- Use only **one encounter counter** at a time to avoid conflicts.  
+- If you want to switch counters, manually uninstall the current one using its dedicated uninstaller.  
+- **Note:** **Gilans Encounter Counter** and **Rens Encounter Counter** is compatible with the custom ReShade preset.  
 
-8. **Uninstallation**
-   - Easily uninstall installed strings or ReShade using the "Uninstall" button.
-  
-9. **Information**
-   - My program is dependent on the proper organization of directories, files, folders, and naming conventions. It is crucial to utilize the program for downloading files to ensure seamless functionality.
+### 6. **Strings**  
+- Use only one set of strings at a time.
+- Strings provided are available in **English** only.
 
-   - To ensure the proper functionality of my program, it's important to note that your antivirus/firewall might potentially flag it as a virus which is a false positive. To remedy this, please grant necessary permissions within your antivirus/firewall settings.
+### 7. **Version Check**
+- The program automatically checks for updates on startup.
+- If an update is available, a prompt will guide you through the process.
+
+### 8. **Uninstallation**
+- Use the **"Uninstall"** button to easily remove installed strings or ReShade.
+
+### 9. **Important Information**
+- Proper directory, file, folder, and naming organization is crucial for the program to function correctly.
+- Download files through the program to ensure seamless installation and avoid errors.
+- **Antivirus/Firewall Notice:**
+  - Your antivirus or firewall may flag the program as a virus (false positive).
+  - If this occurs, grant necessary permissions in your antivirus/firewall settings to allow the program to run.
+
 
 ## Support and Donations
-   - If you find this application helpful and would like to support the development, consider donating. Your support is greatly appreciated.
-   - [Donate via Streamlabs](https://streamlabs.com/ryukotsukii/tip)
 
-  If you need help or have suggestions for my tool, please join the Discord.
-  
-[![discord](https://github.com/user-attachments/assets/09fb5822-5e82-431b-b9cc-bbd4111ba48b)](https://discord.gg/HdfjKbPNc9)
+If you find this application helpful and would like to support its development, consider donating. Your support is greatly appreciated!
 
-*Disclaimer: This application is not affiliated with PokeMMO or its developers. It is an independent utility created to enhance the user experience.*
+- [Donate via Streamlabs](https://streamlabs.com/ryukotsukii/tip) 
+
+If you need assistance or have suggestions for improving the tool, feel free to join the Discord community.
+
+[![Join Discord](https://github.com/user-attachments/assets/09fb5822-5e82-431b-b9cc-bbd4111ba48b)](https://discord.gg/HdfjKbPNc9)
+
+---
+
+**Disclaimer:** This application is not affiliated with **PokeMMO** or its developers. It is an independent utility created to enhance the user experience.  
+
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/Ryukotsuki/Poke-Manager.svg?style=for-the-badge
