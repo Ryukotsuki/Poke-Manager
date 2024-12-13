@@ -82,7 +82,7 @@ Visit the official [PokeMMO website](https://pokemmo.com/) to learn more about t
 ###  **Uninstallation**
 - Use the **"Uninstall"** button to easily remove installed strings or ReShade.
 
-###  **Important Information**
+###  **Information**
 - Proper directory, file, folder, and naming organization is crucial for the program to function correctly.
 - Download files through the program to ensure seamless installation and avoid errors.
 
