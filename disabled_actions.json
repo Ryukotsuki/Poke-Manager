@@ -1,0 +1,70 @@
+{
+    "disabled_actions": [
+        {
+            "category": "counters",
+            "option": "Archetype Counter",
+            "disabled": false,
+            "reason": "Maintenance mode"
+        },
+        {
+            "category": "counters",
+            "option": "Gilans Counter",
+            "disabled": false,
+            "reason": "Temporarily disabled"
+        },
+        {
+            "category": "counters",
+            "option": "Ren Counter",
+            "disabled": false,
+            "reason": "Under maintenance"
+        },
+        {
+            "category": "reshade",
+            "option": "ReShade",
+            "disabled": false,
+            "reason": "Currently updating"
+        },
+        {
+            "category": "themes",
+            "option": "Archetype Theme",
+            "disabled": false,
+            "reason": "Updates in progress"
+        },
+        {
+            "category": "strings",
+            "option": "Shionra Strings",
+            "disabled": false,
+            "reason": "Temporarily unavailable"
+        },
+        {
+            "category": "strings",
+            "option": "Bills Strings",
+            "disabled": false,
+            "reason": "Under maintenance"
+        },
+        {
+            "category": "mods",
+            "option": "Gen 5 Sprites XBRZ",
+            "disabled": false,
+            "reason": "Currently updating"
+        },
+        {
+            "category": "mods",
+            "option": "HD Battle Sprites",
+            "disabled": false,
+            "reason": "Maintenance mode"
+        },
+        {
+            "category": "mods",
+            "option": "HDReloded",
+            "disabled": false,
+            "reason": "Updates in progress"
+        },
+        {
+            "category": "mods",
+            "option": "Mods",
+            "disabled": false,
+            "reason": "Temporarily disabled"
+        }
+    ]
+}
