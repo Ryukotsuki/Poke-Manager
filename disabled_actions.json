@@ -63,7 +63,7 @@
         {
             "category": "mods",
             "option": "Mods",
-            "disabled": false,
+            "disabled": true,
             "reason": "Temporarily disabled"
         }
     ]
