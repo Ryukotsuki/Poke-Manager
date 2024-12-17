@@ -4,67 +4,67 @@
             "category": "counters",
             "option": "Archetype Counter",
             "disabled": false,
-            "reason": "Maintenance mode"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "counters",
             "option": "Gilans Counter",
             "disabled": false,
-            "reason": "Temporarily disabled"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "counters",
             "option": "Ren Counter",
             "disabled": false,
-            "reason": "Under maintenance"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "reshade",
             "option": "ReShade",
             "disabled": false,
-            "reason": "Currently updating"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "themes",
             "option": "Archetype Theme",
             "disabled": false,
-            "reason": "Updates in progress"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "strings",
             "option": "Shionra Strings",
             "disabled": false,
-            "reason": "Temporarily unavailable"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "strings",
             "option": "Bills Strings",
             "disabled": false,
-            "reason": "Under maintenance"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "Gen 5 Sprites XBRZ",
             "disabled": false,
-            "reason": "Currently updating"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "HD Battle Sprites",
             "disabled": false,
-            "reason": "Maintenance mode"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "HDReloded",
             "disabled": false,
-            "reason": "Updates in progress"
+            "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "Mods",
             "disabled": true,
-            "reason": "Temporarily disabled"
+            "reason": "Maintenance Mode"
         }
     ]
 }
