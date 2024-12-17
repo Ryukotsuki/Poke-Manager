@@ -21,7 +21,7 @@
         {
             "category": "reshade",
             "option": "ReShade",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
