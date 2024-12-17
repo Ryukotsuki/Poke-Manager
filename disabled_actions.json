@@ -5,7 +5,7 @@
             "option": "Archetype Counter",
             "disabled": true,
             "reason": "Maintenance Mode"
-        {
+        },
             "category": "counters",
             "option": "Gilans Counter",
             "disabled": true,
