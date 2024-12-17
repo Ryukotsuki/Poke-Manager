@@ -15,13 +15,13 @@
         {
             "category": "counters",
             "option": "Ren Counter",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
             "category": "reshade",
             "option": "Ryukotsuki's ReShade",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
