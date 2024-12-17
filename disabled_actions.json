@@ -63,7 +63,7 @@
         {
             "category": "mods",
             "option": "Mod Pack",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         }
     ]
