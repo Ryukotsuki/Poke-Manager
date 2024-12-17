@@ -4,12 +4,9 @@
             "category": "counters",
             "option": "Archetype Counter",
             "disabled": true,
-            "reason": "We appreciate your interest in downloading the selected item. However, this download option is currently disabled as it is in 'Maintenance Mode.' This mode is activated to ensure that we can carry out critical updates, implement necessary improvements, and enhance the overall performance and reliability of this feature. During maintenance, we conduct thorough checks and tests to fix potential bugs, improve security, and optimize the download process for a smoother user experience.
+            "reason": "The Archetype Counter download feature is currently unavailable because the system is undergoing Maintenance Mode to improve stability and ensure optimal performance. During this maintenance period, we are performing several critical updates, including but not limited to:\n\n- **Security Enhancements**: Upgrading security protocols to ensure data protection and robust access controls.\n- **Performance Optimization**: Fine-tuning backend processes to reduce load times, improve scalability, and increase responsiveness.\n- **Bug Fixes and Patches**: Addressing known issues such as download interruptions, improved error handling, and better progress tracking.\n- **Infrastructure Upgrades**: Upgrading server infrastructure to support higher throughput, efficient concurrent downloads, and minimize downtime during peak usage.\n- **Feature Enhancements**: Adding new capabilities to enhance usability and functionality, providing a richer and more customizable experience.\n\nThis maintenance is expected to last until all improvements have been successfully implemented and tested. We apologize for any inconvenience this may cause and appreciate your understanding and patience. Our goal is to provide a reliable, high-quality service, and this maintenance is a critical step toward that objective.\n\nFor updates on maintenance progress, please visit the **Poke Manager GitHub repository** or join our **Discord community**. Your feedback is invaluable, and we encourage you to share any suggestions or concerns.\n\nThank you for your continued support and for being a valued part of our community!"
+        }
 
-The maintenance period allows us to stay up-to-date with the latest developments and ensure compatibility with all relevant components of the system. We are dedicated to providing the highest quality service, and while we understand that waiting can be inconvenient, these updates are crucial to maintaining a seamless and secure environment for all users.
-
-Please check back later or contact support if you need more information about this process or any expected timelines for its completion. We thank you for your patience and understanding as we work to enhance your user experience."
-        },
         {
             "category": "counters",
             "option": "Gilans Counter",
