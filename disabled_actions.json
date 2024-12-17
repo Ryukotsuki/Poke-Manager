@@ -9,7 +9,7 @@
         {
             "category": "counters",
             "option": "Gilans Counter",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
@@ -33,37 +33,37 @@
         {
             "category": "strings",
             "option": "Shionra Strings",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
             "category": "strings",
             "option": "Bills Strings",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "Gen 5 Sprites XBRZ",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "HD Battle Sprites",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "HDReloded",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "Mods",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         }
     ]
