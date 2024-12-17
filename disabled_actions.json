@@ -6,6 +6,7 @@
             "disabled": true,
             "reason": "Maintenance Mode"
         },
+        {
             "category": "counters",
             "option": "Gilans Counter",
             "disabled": true,
@@ -14,7 +15,7 @@
         {
             "category": "counters",
             "option": "Ren Counter",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
