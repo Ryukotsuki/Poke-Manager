@@ -5,8 +5,7 @@
             "option": "Archetype Counter",
             "disabled": true,
             "reason": "The Archetype Counter download feature is currently unavailable because the system is undergoing Maintenance Mode to improve stability and ensure optimal performance. During this maintenance period, we are performing several critical updates, including but not limited to, Security Enhancements: Upgrading security protocols to ensure data protection and robust access controls. Performance Optimization: Fine-tuning backend processes to reduce load times, improve scalability, and increase responsiveness."
-        }
-
+        },
         {
             "category": "counters",
             "option": "Gilans Counter",
