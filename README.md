@@ -75,6 +75,7 @@ If you enjoy **Poke Manager** and want to support its development consider donat
 - [Donate via Streamlabs](https://streamlabs.com/ryukotsukii/tip)  
 
 Have questions or suggestions? Join our community.
+
 [![Join Discord](https://github.com/user-attachments/assets/09fb5822-5e82-431b-b9cc-bbd4111ba48b)](https://discord.gg/HdfjKbPNc9)  
 
 ---
