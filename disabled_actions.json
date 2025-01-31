@@ -32,6 +32,12 @@
         },
         {
             "category": "strings",
+            "option": "Ryukotsuki's Strings",
+            "disabled": True,
+            "reason": "Maintenance Mode"
+        },
+        {
+            "category": "strings",
             "option": "Shionra Strings",
             "disabled": false,
             "reason": "Maintenance Mode"
@@ -64,6 +70,12 @@
             "category": "mods",
             "option": "Mod Pack",
             "disabled": false,
+            "reason": "Maintenance Mode"
+        },
+        {
+            "category": "mods",
+            "option": "Bullseye",
+            "disabled": True,
             "reason": "Maintenance Mode"
         }
     ]
