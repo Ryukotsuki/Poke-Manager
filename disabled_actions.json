@@ -3,7 +3,7 @@
         {
             "category": "counters",
             "option": "Archetype Counter",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
@@ -27,7 +27,7 @@
         {
             "category": "themes",
             "option": "Archetype Theme",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
