@@ -33,7 +33,7 @@
         {
             "category": "strings",
             "option": "Ryukotsuki's Strings",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
@@ -75,7 +75,7 @@
         {
             "category": "mods",
             "option": "Bullseye",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         }
     ]
