@@ -33,7 +33,7 @@
         {
             "category": "themes",
             "option": "Archetype GEC Patch",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
