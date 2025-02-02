@@ -31,6 +31,12 @@
             "reason": "Maintenance Mode"
         },
         {
+            "category": "themes",
+            "option": "Archetype GEC",
+            "disabled": True,
+            "reason": "Maintenance Mode"
+        },
+        {
             "category": "strings",
             "option": "Ryukotsuki's Strings",
             "disabled": false,
