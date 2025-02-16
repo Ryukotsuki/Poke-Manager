@@ -8,6 +8,12 @@
         },
         {
             "category": "counters",
+            "option": "MonTally Counter",
+            "disabled": true,
+            "reason": "Maintenance Mode"
+        },
+        {
+            "category": "counters",
             "option": "Gilans Counter",
             "disabled": false,
             "reason": "Maintenance Mode"
