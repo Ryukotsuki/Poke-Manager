@@ -87,7 +87,7 @@
         {
             "category": "mods",
             "option": "Bullseye",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         }
     ]
