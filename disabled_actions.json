@@ -15,73 +15,73 @@
         {
             "category": "counters",
             "option": "Gilans Counter",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "counters",
             "option": "Ren Counter",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "reshade",
             "option": "Ryukotsuki's ReShade",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "themes",
             "option": "Archetype Theme",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "themes",
             "option": "Archetype GEC Patch",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "strings",
             "option": "Ryukotsuki's Strings",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "strings",
             "option": "Shionra Strings",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "strings",
             "option": "Bills Strings",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "Gen 5 Sprites XBRZ",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "HD Battle Sprites",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "HDReloded",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
             "category": "mods",
             "option": "Mod Pack",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
