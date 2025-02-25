@@ -37,8 +37,9 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 ## 📸 **Media Showcase**  
 <div align="center">
   
-![PokeManager](https://github.com/user-attachments/assets/a6b745a5-1a3b-4d9d-bce1-8469addc0987)
-![ReShade On Off](https://github.com/Ryukotsuki/PokeMMO-Manager/assets/50199421/2b98cbdf-8b65-4721-9202-f622b64c72fa)
+![PokeManager](https://github.com/user-attachments/assets/b18a33d5-74fe-4a82-9079-931d12358f92)
+![ReShade On Off](https://github.com/user-attachments/assets/c87c3494-b1ef-4653-9f6a-78df23b9da7a)
+
 
 </div>
 
