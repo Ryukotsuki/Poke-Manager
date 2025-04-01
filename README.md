@@ -16,6 +16,10 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 - 🖥️ **One-Click Auto Starter**
   
   Launch PokeMMO or any Pokémon encounter counter effortlessly.
+
+- 🔳 **True Borderless Mode**
+
+   Enjoy a seamless fullscreen experience without visible window borders, compatible with encounter counters.
  
 - 🌐 **Download Center**
   
@@ -56,8 +60,8 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 - Create a desktop shortcut for quick access.  
 
 ### ⚡ **Quick Access**
-- Use the **"Start PokeMMO"** button to launch the game or start encounter counters.  
-- Dedicated buttons are available for **Gilans**, **Archetype**, and **Rens** counters.  
+- Use the **"Start PokeMMO"** button to launch the game normally or in true borderless mode.
+- Dedicated buttons are available for **Gilans**, **Archetype**, **MonTally**, and **Rens** counters.
 
 ### 📥 **Download Center**
 - Install mods, themes, strings, and ReShade presets directly from the app for hassle-free setup.  
@@ -73,10 +77,10 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 ---
 
 ## 💖 **Support and Contributions**  
-If you enjoy **Poke Manager** and want to support its development consider donating.
-- [Donate via Streamlabs](https://streamlabs.com/ryukotsukii/tip)  
+If you enjoy **Poke Manager** and want to support its development, consider donating.
+- [Donate via PayPal](https://paypal.me/Ryukotsuki?country.x=US&locale.x=en_US)  
 
-Have questions or suggestions? Join our community discord.
+Have questions or suggestions? Join our community Discord.
 
 [![Join Discord](https://github.com/user-attachments/assets/09fb5822-5e82-431b-b9cc-bbd4111ba48b)](https://discord.gg/HdfjKbPNc9)  
 
