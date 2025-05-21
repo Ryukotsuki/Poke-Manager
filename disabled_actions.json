@@ -3,7 +3,7 @@
         {
             "category": "counters",
             "option": "Archetype Counter",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
@@ -25,12 +25,6 @@
             "reason": "Maintenance Mode"
         },
         {
-            "category": "reshade",
-            "option": "Ryukotsuki's ReShade",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
             "category": "themes",
             "option": "Archetype Theme",
             "disabled": false,
@@ -39,54 +33,6 @@
         {
             "category": "themes",
             "option": "GEC Patch",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "strings",
-            "option": "Ryukotsuki's Strings",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "strings",
-            "option": "Shionra Strings",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "strings",
-            "option": "Bills Strings",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "mods",
-            "option": "Gen 5 Sprites XBRZ",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "mods",
-            "option": "HD Battle Sprites",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "mods",
-            "option": "HDReloded",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "mods",
-            "option": "Mod Pack",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "mods",
-            "option": "Bullseye",
             "disabled": false,
             "reason": "Maintenance Mode"
         }
