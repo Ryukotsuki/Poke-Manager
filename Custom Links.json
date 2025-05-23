@@ -1,0 +1,22 @@
+{
+  "CustomLinks": [
+    {"title": "PokeManager Forum Post", "url": "https://forums.pokemmo.com/index.php?/topic/174159-ryukotsukis-poke-manager/"},
+    {"title": "PokeManager Discord", "url": "https://discord.com/invite/HdfjKbPNc9"},
+    {"title": "PokeManager GitHub", "url": "https://github.com/Ryukotsuki/Poke-Manager"},
+    {"title": "PokeMMO Hub", "url": "https://pokemmohub.com/"},
+    {"title": "PokeMMO Duders Discord", "url": "https://discord.com/invite/patrouski"},
+    {"title": "OfficialDarku Discord", "url": "https://discord.gg/darkuspookies"},
+    {"title": "Archetype Discord", "url": "https://discord.com/invite/rYg7ntqQRY"},
+    {"title": "PokeMMO Zone", "url": "https://pokemmo.zone/"},
+    {"title": "PokeMMO Shiny Board", "url": "https://shinyboard.pokemmo.zone/"},
+    {"title": "PokeMMO Damage Calculator", "url": "https://pokemmocalc.gamer2020.net/"},
+    {"title": "PokeMMO Team Builder", "url": "https://pokemmotb.gamer2020.net/"},
+    {"title": "PokeMMO Info", "url": "https://pokemmo.info/index"},
+    {"title": "PokeMMO Dex", "url": "https://jazcash.github.io/pokemmo-dex/#/pokemon"},
+    {"title": "PokeMMO Discord", "url": "https://pokemmo.com/discord"},
+    {"title": "PokeMMO Forums", "url": "https://forums.pokemmo.com/"},
+    {"title": "Smogon Gen 5", "url": "https://www.smogon.com/dex/bw/pokemon/"},
+    {"title": "Bulbapedia", "url": "https://bulbapedia.bulbagarden.net/wiki/Main_Page"},
+    {"title": "PokemonDB", "url": "https://pokemondb.net/"}
+  ]
+}
