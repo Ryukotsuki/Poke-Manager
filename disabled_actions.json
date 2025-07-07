@@ -19,12 +19,6 @@
             "reason": "Maintenance Mode"
         },
         {
-            "category": "counters",
-            "option": "Ren Counter",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
             "category": "themes",
             "option": "Archetype Theme",
             "disabled": false,
