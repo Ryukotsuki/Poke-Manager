@@ -39,10 +39,13 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 ---
 
 ## 📸 **Media Showcase**  
-<div align="center">
+<div align="left">
   
 
-![PokeManager](https://github.com/user-attachments/assets/e63ac454-1623-462c-a293-3ba667c8f325)
+![PokeManager](https://github.com/user-attachments/assets/25230acc-241d-4ebd-a31c-f7d09df98fd2)
+![ModBrowser](https://github.com/user-attachments/assets/47cb6a79-598d-4f6c-a366-336ff7cd98b6)
+![Manager](https://github.com/user-attachments/assets/2f857e54-0480-45d4-8da4-496c99e1a6d9)
+![ArchetypeThemeCustomizer](https://github.com/user-attachments/assets/6233ea61-a7e0-4ba6-bed8-8a0ee911d252)
 ![ReShade On Off](https://github.com/user-attachments/assets/c87c3494-b1ef-4653-9f6a-78df23b9da7a)
 
 
@@ -61,7 +64,7 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 
 ### ⚡ **Quick Access**
 - Use the **"Start PokeMMO"** button to launch the game normally or in true borderless mode.
-- Dedicated buttons are available for **Gilans**, **Archetype**, **MonTally**, and **Rens** counters.
+- Dedicated buttons are available for **Gilans**, **Archetype**, and **MonTally** counters.
 
 ### 📥 **Download Center**
 - Install mods, themes, strings, and ReShade presets directly from the app for hassle-free setup.  
@@ -69,10 +72,10 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 ---
 
 ## 📝 **Important Notes**
-- **Encounter Counters**: Only use one at a time to avoid conflicts. Uninstall the current counter before switching.
-- **Uninstallation**: Use the app’s **"Uninstall"** button to remove components like ReShade or strings.
+- **Encounter Counters**: Only use one at a time to avoid conflicts or issues with other encounter counters.
+- **Uninstallation**: Use the app’s **"Manager"** button to remove components like ReShade or mods.
 - **Version Checks**: Updates are automatically checked and prompted during startup.
-- **Strings**: Limited to **English**; only one set should be used at a time.  
+- **Strings**: Limited to **English**; only one should be used at a time.
 
 ---
 
