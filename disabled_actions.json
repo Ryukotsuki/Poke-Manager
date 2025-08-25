@@ -3,15 +3,16 @@
         {
             "category": "buttons",
             "option": "manager_button",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
             "category": "buttons",
             "option": "mod_browser_button",
-            "disabled": true,
+            "disabled": false,
             "reason": "Maintenance Mode"
         }
     ]
 }
+
 
