@@ -1,33 +1,15 @@
 {
     "disabled_actions": [
         {
-            "category": "counters",
-            "option": "Archetype Counter",
+            "category": "buttons",
+            "option": "manager_button",
             "disabled": false,
             "reason": "Maintenance Mode"
         },
         {
-            "category": "counters",
-            "option": "MonTally Counter",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "counters",
-            "option": "Gilans Counter",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "themes",
-            "option": "Archetype Theme",
-            "disabled": false,
-            "reason": "Maintenance Mode"
-        },
-        {
-            "category": "themes",
-            "option": "GEC Patch",
-            "disabled": false,
+            "category": "buttons",
+            "option": "mod_browser_button",
+            "disabled": true,
             "reason": "Maintenance Mode"
         }
     ]
