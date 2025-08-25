@@ -15,17 +15,16 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 ## ✨ **Features**
 - 🖥️ **One-Click Auto Starter**
   
-  Launch PokeMMO or any Pokémon encounter counter effortlessly.
+  Launch PokeMMO normally or in true borderless mode.
 
 - 🔳 **True Borderless Mode**
 
-   Enjoy a seamless fullscreen experience without visible window borders, compatible with encounter counters.
+   Enjoy a seamless fullscreen experience without visible window borders.
  
 - 🌐 **Download Center**
   
   Download essential add-ons for enhanced gameplay.
   - Custom themes, strings, and mods  
-  - Encounter counters
   - ReShade presets
     
 - 🎨 **Custom ReShade Preset**
@@ -40,13 +39,14 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 
 ## 📸 **Media Showcase**  
 <div align="left">
-  
 
-![PokeManager](https://github.com/user-attachments/assets/25230acc-241d-4ebd-a31c-f7d09df98fd2)
-![ModBrowser](https://github.com/user-attachments/assets/47cb6a79-598d-4f6c-a366-336ff7cd98b6)
-![Manager](https://github.com/user-attachments/assets/2f857e54-0480-45d4-8da4-496c99e1a6d9)
-![ArchetypeThemeCustomizer](https://github.com/user-attachments/assets/6233ea61-a7e0-4ba6-bed8-8a0ee911d252)
-![ReShade On Off](https://github.com/user-attachments/assets/c87c3494-b1ef-4653-9f6a-78df23b9da7a)
+
+<img width="1200" height="875" alt="PokeManager" src="https://github.com/user-attachments/assets/2721fc49-c533-4d1e-bcdd-faf215dd77eb" />
+<img width="800" height="735" alt="ModBrowser1" src="https://github.com/user-attachments/assets/fa651a9a-8995-4f4b-b520-7d603bb001d7" />
+<img width="800" height="735" alt="ModBrowser2" src="https://github.com/user-attachments/assets/463a95c4-a2d8-4cd9-8a35-18b1edcff217" />
+<img width="800" height="715" alt="Manager" src="https://github.com/user-attachments/assets/935289e7-f85e-47dd-996e-bafcadfdc7d6" />
+<img width="800" height="715" alt="Archetype Theme Customizer" src="https://github.com/user-attachments/assets/9d80a4cf-5fd1-4626-a41f-15d606fab1f5" />
+<img width="1920" height="2160" alt="ReShade On Off" src="https://github.com/user-attachments/assets/10a36eab-b910-4382-bf18-08ecb6e19a32" />
 
 
 </div>
@@ -64,7 +64,6 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 
 ### ⚡ **Quick Access**
 - Use the **"Start PokeMMO"** button to launch the game normally or in true borderless mode.
-- Dedicated buttons are available for **Gilans**, **Archetype**, and **MonTally** counters.
 
 ### 📥 **Download Center**
 - Install mods, themes, strings, and ReShade presets directly from the app for hassle-free setup.  
@@ -72,7 +71,6 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 ---
 
 ## 📝 **Important Notes**
-- **Encounter Counters**: Only use one at a time to avoid conflicts or issues with other encounter counters.
 - **Uninstallation**: Use the app’s **"Manager"** button to remove components like ReShade or mods.
 - **Version Checks**: Updates are automatically checked and prompted during startup.
 - **Strings**: Limited to **English**; only one should be used at a time.
