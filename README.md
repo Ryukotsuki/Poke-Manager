@@ -19,7 +19,7 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 
 - 🔳 **True Borderless Mode**
 
-   Enjoy a seamless fullscreen experience without visible window borders.
+  Enjoy a seamless fullscreen experience without visible window borders.
  
 - 🌐 **Download Center**
   
