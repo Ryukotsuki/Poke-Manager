@@ -3,7 +3,7 @@
         {
             "category": "buttons",
             "option": "manager_button",
-            "disabled": false,
+            "disabled": true,
             "reason": "Maintenance Mode"
         },
         {
@@ -14,3 +14,4 @@
         }
     ]
 }
+
