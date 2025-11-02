@@ -2,8 +2,8 @@
     "Default": {
         "main-color": "#42b9ff",
         "sub-color": "#1c2328",
-        "button-color": "#263238",
-        "accent-color": "#2d3b40",
+        "button-color": "#963238",
+        "accent-color": "#9d3b40",
         "font-main-color": "#ffffff",
         "font-sub-color": "#acb7b9",
         "font-button-color": "#84959b",
@@ -63,4 +63,5 @@
         "counter-font": "#ffffff",
         "counter-font-border": "#1f1f1f"
     }
+
 }
