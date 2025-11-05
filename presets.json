@@ -33,7 +33,7 @@
             "counter-font-border": "#233031"
         },
         "description": "The default color preset of the Archetype theme.",
-        "image": https://image.prntscr.com/image/dN58O5z7SUGX_5n5Awx9Fw.png
+        "image": "https://image.prntscr.com/image/dN58O5z7SUGX_5n5Awx9Fw.png"
     },
     "Ryuk's": {
         "colors": {
@@ -69,7 +69,8 @@
             "counter-font-border": "#1f1f1f"
         },
         "description": "Ryukotsuki's color preset dark material theme.",
-        "image": https://image.prntscr.com/image/f_b2zViNStiEAJqBzptD0g.png
+        "image": "https://image.prntscr.com/image/f_b2zViNStiEAJqBzptD0g.png"
     }
 }
+
 
