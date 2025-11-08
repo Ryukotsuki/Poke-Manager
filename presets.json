@@ -70,7 +70,41 @@
         },
         "description": "Ryukotsuki's color preset dark material theme.",
         "image": "https://image.prntscr.com/image/f_b2zViNStiEAJqBzptD0g.png"
+    },
+    "Testing": {
+        "colors": {
+            "main-color": "#262626",
+            "sub-color": "#121212",
+            "button-color": "#1f1f1f",
+            "accent-color": "#262626",
+            "font-main-color": "#ffffff",
+            "font-sub-color": "#ffffff",
+            "font-button-color": "#ffffff",
+            "font-disabled-color": "#ffffff",
+            "hp-high-color": "#00d932",
+            "hp-mid-color": "#ff9400",
+            "hp-low-color": "#ff4040",
+            "xp-color": "#00ffff",
+            "friendship-color": "#b61ae8",
+            "icon-color": "#ffffff",
+            "water-background": "#1f1f1f",
+            "water-warning": "#dc2222",
+            "berry-progress": "#42b9ff",
+            "berry-progress-warning": "#dc2222",
+            "berry-progress-disabled": "#42FFFFFF",
+            "reshiram-color": "#1f1f1f",
+            "reshiram-aura": "#42b9ff",
+            "zekrom-color": "#121212",
+            "zekrom-aura": "#00ffff",
+            "counter-ball-color": "#262626",
+            "counter-ball-outline": "#ffffff",
+            "counter-min-max-button-color": "#ffffff",
+            "counter-main-color": "#262626",
+            "counter-sub-color": "#121212",
+            "counter-font": "#ffffff",
+            "counter-font-border": "#1f1f1f"
+        },
+        "description": "Testing.",
+        "image": "https://image.prntscr.com/image/n05b__TeT0eRlrtJgBmbHA.jpg"
     }
 }
-
-
