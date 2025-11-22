@@ -40,12 +40,12 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 ## 📸 **Media Showcase**  
 <div align="left">
 
-
-<img width="1200" height="875" alt="PokeManager" src="https://github.com/user-attachments/assets/2721fc49-c533-4d1e-bcdd-faf215dd77eb" />
-<img width="800" height="735" alt="ModBrowser1" src="https://github.com/user-attachments/assets/fa651a9a-8995-4f4b-b520-7d603bb001d7" />
+<img width="1200" height="875" alt="PokeManager" src="https://github.com/user-attachments/assets/e689ad23-d7e4-4bb7-9f82-af3da4d1abd3" />
+<img width="800" height="735" alt="ModBrowser" src="https://github.com/user-attachments/assets/e58a9614-fb8d-4c07-8de1-7de1e72fea25" />
 <img width="800" height="735" alt="ModBrowser2" src="https://github.com/user-attachments/assets/463a95c4-a2d8-4cd9-8a35-18b1edcff217" />
-<img width="800" height="715" alt="Manager" src="https://github.com/user-attachments/assets/935289e7-f85e-47dd-996e-bafcadfdc7d6" />
-<img width="800" height="715" alt="Archetype Theme Customizer" src="https://github.com/user-attachments/assets/9d80a4cf-5fd1-4626-a41f-15d606fab1f5" />
+<img width="800" height="715" alt="Manager" src="https://github.com/user-attachments/assets/574ba800-a8b5-4494-a5de-d3cbf6586a12" />
+<img width="1200" height="875" alt="ArchetypeThemeCustomizer" src="https://github.com/user-attachments/assets/be82b6ac-2aa5-4e7b-b734-71bf090478d9" />
+<img width="1200" height="875" alt="Preset Manager" src="https://github.com/user-attachments/assets/e2b09125-eee9-4be8-ad7c-953e13187d41" />
 <img width="1920" height="2160" alt="ReShade On Off" src="https://github.com/user-attachments/assets/10a36eab-b910-4382-bf18-08ecb6e19a32" />
 
 
