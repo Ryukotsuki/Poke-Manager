@@ -44,7 +44,7 @@ PokeManager is a utility designed to enhance your PokeMMO gaming experience by 
 <img width="800" height="735" alt="ModBrowser" src="https://github.com/user-attachments/assets/e58a9614-fb8d-4c07-8de1-7de1e72fea25" />
 <img width="800" height="735" alt="ModBrowser2" src="https://github.com/user-attachments/assets/463a95c4-a2d8-4cd9-8a35-18b1edcff217" />
 <img width="800" height="715" alt="Manager" src="https://github.com/user-attachments/assets/574ba800-a8b5-4494-a5de-d3cbf6586a12" />
-<img width="1200" height="875" alt="ArchetypeThemeCustomizer" src="https://github.com/user-attachments/assets/be82b6ac-2aa5-4e7b-b734-71bf090478d9" />
+<img width="1200" height="875" alt="ArchetypeThemeCustomizer" src="https://github.com/user-attachments/assets/03e73178-ca51-4bab-83b5-19bfd144888a" />
 <img width="1200" height="875" alt="Preset Manager" src="https://github.com/user-attachments/assets/e2b09125-eee9-4be8-ad7c-953e13187d41" />
 <img width="1920" height="2160" alt="ReShade On Off" src="https://github.com/user-attachments/assets/10a36eab-b910-4382-bf18-08ecb6e19a32" />
 
