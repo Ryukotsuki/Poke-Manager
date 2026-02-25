@@ -32,7 +32,7 @@
             "counter-font": "#f1f2f3",
             "counter-font-border": "#233031"
         },
-        "description": "The default color preset of the Archetype theme.",
+        "description": "The default color preset.",
         "image": "https://image.prntscr.com/image/dN58O5z7SUGX_5n5Awx9Fw.png",
         "look": {
             "Login": "Unova.xml",
@@ -121,7 +121,51 @@
             "counter-font-border": "#050509"
         },
         "description": "Catppuccin Mocha color preset theme.",
-        "image": "https://img.lightshot.app/TdgsfoR1Tvur3qHM28tpWQ.png",
+        "image": "",
+        "look": {
+            "Login": "Unova.xml",
+            "Cursors": "Cursors-Black.xml",
+            "Shape": "Round.xml",
+            "Bubbles": "Archetype.xml"
+        },
+        "counter": "Counter-Minimal-Right-Icon.xml",
+        "atlas": "icons/round/main.atlas"
+    },
+    "Forge": {
+        "colors": {
+            "main-color": "#3A444F",
+            "sub-color": "#11141A",
+            "button-color": "#262C34",
+            "accent-color": "#20262D",
+            "font-main-color": "#E0E4E8",
+            "font-sub-color": "#A4AAB0",
+            "font-button-color": "#E6EBF0",
+            "font-disabled-color": "#646B72",
+            "hp-high-color": "#3DBA5F",
+            "hp-mid-color": "#D3C357",
+            "hp-low-color": "#C94C42",
+            "xp-color": "#4D82C2",
+            "friendship-color": "#B57BBF",
+            "icon-color": "#E0E4E8",
+            "water-background": "#20252C",
+            "water-warning": "#D3C357",
+            "berry-progress": "#3D6E84",
+            "berry-progress-warning": "#C27A3E",
+            "berry-progress-disabled": "#3B4047",
+            "reshiram-color": "#454b51",
+            "reshiram-aura": "#F5FAFD",
+            "zekrom-color": "#1D2329",
+            "zekrom-aura": "#DBE8FD",
+            "counter-ball-color": "#11141A",
+            "counter-ball-outline": "#3A444F",
+            "counter-min-max-button-color": "#E0E4E8",
+            "counter-main-color": "#3A444F",
+            "counter-sub-color": "#11141A",
+            "counter-font": "#E0E4E8",
+            "counter-font-border": "#050609"
+        },
+        "description": "Forge color preset with cool gray tones.",
+        "image": "https://img.lightshot.app/kjmKMD-TSK6kkmhWhy-POQ.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
