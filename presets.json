@@ -76,8 +76,52 @@
             "counter-font": "#ffffff",
             "counter-font-border": "#1f1f1f"
         },
-        "description": "Ryukotsuki's color preset dark material theme.",
+        "description": "Ryukotsuki's Dark Material color preset theme.",
         "image": "https://image.prntscr.com/image/f_b2zViNStiEAJqBzptD0g.png",
+        "look": {
+            "Login": "Unova.xml",
+            "Cursors": "Cursors-Black.xml",
+            "Shape": "Round.xml",
+            "Bubbles": "Archetype.xml"
+        },
+        "counter": "Counter-Minimal-Right-Icon.xml",
+        "atlas": "icons/round/main.atlas"
+    },
+    "Catppuccin Mocha": {
+        "colors": {
+            "main-color": "#11111b",
+            "sub-color": "#171724",
+            "button-color": "#252538",
+            "accent-color": "#3a3b50",
+            "font-main-color": "#cdd6f4",
+            "font-sub-color": "#a6adc8",
+            "font-button-color": "#cdd6f4",
+            "font-disabled-color": "#6c7086",
+            "hp-high-color": "#a6e3a1",
+            "hp-mid-color": "#f9e2af",
+            "hp-low-color": "#f38ba8",
+            "xp-color": "#89b4fa",
+            "friendship-color": "#cba6f7",
+            "icon-color": "#cdd6f4",
+            "water-background": "#1e1e2e",
+            "water-warning": "#f9e2af",
+            "berry-progress": "#89b4fa",
+            "berry-progress-warning": "#fab387",
+            "berry-progress-disabled": "#313244",
+            "reshiram-color": "#1e1e2e",
+            "reshiram-aura": "#f5e0dc",
+            "zekrom-color": "#11111b",
+            "zekrom-aura": "#b4befe",
+            "counter-ball-color": "#11111b",
+            "counter-ball-outline": "#cdd6f4",
+            "counter-min-max-button-color": "#cdd6f4",
+            "counter-main-color": "#171724",
+            "counter-sub-color": "#11111b",
+            "counter-font": "#cdd6f4",
+            "counter-font-border": "#050509"
+        },
+        "description": "Catppuccin Mocha color preset theme.",
+        "image": "https://img.lightshot.app/TdgsfoR1Tvur3qHM28tpWQ.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -88,4 +132,3 @@
         "atlas": "icons/round/main.atlas"
     }
 }
-
