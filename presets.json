@@ -89,7 +89,7 @@
     },
     "Catppuccin Mocha": {
         "colors": {
-            "main-color": "#11111b",
+            "main-color": "#1f1f30",
             "sub-color": "#171724",
             "button-color": "#252538",
             "accent-color": "#3a3b50",
@@ -108,20 +108,20 @@
             "berry-progress": "#89b4fa",
             "berry-progress-warning": "#fab387",
             "berry-progress-disabled": "#313244",
-            "reshiram-color": "#1e1e2e",
-            "reshiram-aura": "#f5e0dc",
-            "zekrom-color": "#11111b",
-            "zekrom-aura": "#b4befe",
-            "counter-ball-color": "#11111b",
+            "reshiram-color": "#1f1f30",
+            "reshiram-aura": "#f38ba8",
+            "zekrom-color": "#171724",
+            "zekrom-aura": "#89b4fa",
+            "counter-ball-color": "#1f1f30",
             "counter-ball-outline": "#cdd6f4",
             "counter-min-max-button-color": "#cdd6f4",
             "counter-main-color": "#171724",
-            "counter-sub-color": "#11111b",
+            "counter-sub-color": "#1f1f30",
             "counter-font": "#cdd6f4",
-            "counter-font-border": "#050509"
+            "counter-font-border": "#1f1f1f"
         },
         "description": "Soft, cozy dark palette with inky violet backgrounds, inspired by the Catppuccin Mocha Palette.",
-        "image": "https://img.lightshot.app/TdgsfoR1Tvur3qHM28tpWQ.png",
+        "image": "https://img.lightshot.app/zGNoFtn4StW8D_GhqMP1Sw.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -176,5 +176,6 @@
         "atlas": "icons/round/main.atlas"
     }
 }
+
 
 
