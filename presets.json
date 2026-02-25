@@ -121,7 +121,7 @@
             "counter-font-border": "#050509"
         },
         "description": "Soft, cozy dark palette with inky violet backgrounds, pastel blue and mauve highlights, and gentle red, yellow, and green bars inspired by the Catppuccin Mocha scheme.",
-        "image": "",
+        "image": "https://img.lightshot.app/TdgsfoR1Tvur3qHM28tpWQ.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -176,3 +176,4 @@
         "atlas": "icons/round/main.atlas"
     }
 }
+
