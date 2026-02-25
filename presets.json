@@ -32,7 +32,7 @@
             "counter-font": "#f1f2f3",
             "counter-font-border": "#233031"
         },
-        "description": "Bright cyan accents on a deep blue-gray background, with clean white text and bold red, yellow, and green status bars for a classic, high-contrast UI look.",
+        "description": "Bright cyan accents on a deep blue-gray background for an original, high contrast UI look.",
         "image": "https://image.prntscr.com/image/dN58O5z7SUGX_5n5Awx9Fw.png",
         "look": {
             "Login": "Unova.xml",
@@ -76,7 +76,7 @@
             "counter-font": "#ffffff",
             "counter-font-border": "#1f1f1f"
         },
-        "description": "Pure dark theme with near-black backgrounds and white text, accented by neon cyan, bright green, orange, and red for a sharp, material-inspired look.",
+        "description": "Pure dark theme with near black backgrounds for a sharp, material-inspired look.",
         "image": "https://image.prntscr.com/image/f_b2zViNStiEAJqBzptD0g.png",
         "look": {
             "Login": "Unova.xml",
@@ -120,7 +120,7 @@
             "counter-font": "#cdd6f4",
             "counter-font-border": "#050509"
         },
-        "description": "Soft, cozy dark palette with inky violet backgrounds, pastel blue and mauve highlights, and gentle red, yellow, and green bars inspired by the Catppuccin Mocha scheme.",
+        "description": "Soft, cozy dark palette with inky violet backgrounds, inspired by the Catppuccin Mocha Palette.",
         "image": "https://img.lightshot.app/TdgsfoR1Tvur3qHM28tpWQ.png",
         "look": {
             "Login": "Unova.xml",
@@ -164,7 +164,7 @@
             "counter-font": "#E0E4E8",
             "counter-font-border": "#050609"
         },
-        "description": "Industrial, forge-inspired dark steel palette with cool blue-gray surfaces, pale off‑white text, and muted green, gold, and ember-red highlights for a tempered metal feel.",
+        "description": "Industrial, forge-inspired dark steel palette with cool gray surfaces, for a tempered metal feel.",
         "image": "https://img.lightshot.app/kjmKMD-TSK6kkmhWhy-POQ.png",
         "look": {
             "Login": "Unova.xml",
@@ -176,4 +176,5 @@
         "atlas": "icons/round/main.atlas"
     }
 }
+
 
