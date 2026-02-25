@@ -43,7 +43,7 @@
         "counter": "Counter-Minimal-Right-Icon.xml",
         "atlas": "icons/round/main.atlas"
     },
-    "Ryuk's": {
+    "Dark Material": {
         "colors": {
             "main-color": "#262626",
             "sub-color": "#121212",
@@ -88,3 +88,4 @@
         "atlas": "icons/round/main.atlas"
     }
 }
+
