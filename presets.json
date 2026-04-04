@@ -41,7 +41,6 @@
             "Bubbles": "Archetype.xml"
         },
         "counter": "Counter-Minimal-Right-Icon.xml",
-        "atlas": "icons/round/main.atlas"
     },
     "Dark Material": {
         "colors": {
@@ -85,7 +84,6 @@
             "Bubbles": "Archetype.xml"
         },
         "counter": "Counter-Minimal-Right-Icon.xml",
-        "atlas": "icons/round/main.atlas"
     },
     "Catppuccin Mocha": {
         "colors": {
@@ -129,7 +127,6 @@
             "Bubbles": "Archetype.xml"
         },
         "counter": "Counter-Minimal-Right-Icon.xml",
-        "atlas": "icons/round/main.atlas"
     },
     "Forge": {
         "colors": {
@@ -173,7 +170,6 @@
             "Bubbles": "Archetype.xml"
         },
         "counter": "Counter-Minimal-Right-Icon.xml",
-        "atlas": "icons/round/main.atlas"
     }
 }
 
