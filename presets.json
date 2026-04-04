@@ -40,7 +40,7 @@
             "Shape": "Round.xml",
             "Bubbles": "Archetype.xml"
         },
-        "counter": "Counter-Minimal-Right-Icon.xml",
+        "counter": "Counter-Minimal-Right-Icon.xml"
     },
     "Dark Material": {
         "colors": {
@@ -83,7 +83,7 @@
             "Shape": "Round.xml",
             "Bubbles": "Archetype.xml"
         },
-        "counter": "Counter-Minimal-Right-Icon.xml",
+        "counter": "Counter-Minimal-Right-Icon.xml"
     },
     "Catppuccin Mocha": {
         "colors": {
@@ -126,7 +126,7 @@
             "Shape": "Round.xml",
             "Bubbles": "Archetype.xml"
         },
-        "counter": "Counter-Minimal-Right-Icon.xml",
+        "counter": "Counter-Minimal-Right-Icon.xml"
     },
     "Forge": {
         "colors": {
@@ -169,7 +169,7 @@
             "Shape": "Round.xml",
             "Bubbles": "Archetype.xml"
         },
-        "counter": "Counter-Minimal-Right-Icon.xml",
+        "counter": "Counter-Minimal-Right-Icon.xml"
     }
 }
 
