@@ -1,104 +1,175 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/Ryukotsuki/Poke-Manager/assets/50199421/0dce132b-8882-4ca0-9719-43e03903c6e9" alt="Poke Manager logo" width="520" />
+</p>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Downloads][downloads-shield]][downloads-url]
+<h1 align="center">Poke Manager</h1>
 
-![mmologos](https://github.com/Ryukotsuki/Poke-Manager/assets/50199421/0dce132b-8882-4ca0-9719-43e03903c6e9)
-PokeManager is a utility designed to enhance your PokeMMO gaming experience by simplifying & streamlining tasks.
-</div>
+<p align="center">
+  A Windows utility built to make PokeMMO setup, launching, mod management, ReShade installs, and borderless play easier.
+</p>
 
----
-
-## ✨ **Features**
-- 🖥️ **One-Click Auto Starter**
-  
-  Launch PokeMMO normally or in true borderless mode.
-
-- 🔳 **True Borderless Mode**
-
-  Enjoy a seamless fullscreen experience without visible window borders.
- 
-- 🌐 **Download Center**
-  
-  Download essential add-ons for enhanced gameplay.
-  - Custom themes, strings, and mods  
-  - ReShade presets
-    
-- 🎨 **Custom ReShade Preset**
-  
-  Enhance your PokeMMO visuals with a custom ReShade preset that improves colors for a more vibrant experience.
-
-- 🔄 **Automatic Updates**
-  
-  Stay updated with the latest features and improvements through automatic updates. 
+<p align="center">
+  <a href="https://github.com/Ryukotsuki/Poke-Manager/releases"><img src="https://img.shields.io/github/v/release/Ryukotsuki/Poke-Manager?style=for-the-badge&label=Latest%20Release" alt="Latest release"></a>
+  <a href="https://github.com/Ryukotsuki/Poke-Manager/releases"><img src="https://img.shields.io/github/downloads/Ryukotsuki/Poke-Manager/total?style=for-the-badge" alt="Downloads"></a>
+  <a href="https://github.com/Ryukotsuki/Poke-Manager/stargazers"><img src="https://img.shields.io/github/stars/Ryukotsuki/Poke-Manager.svg?style=for-the-badge" alt="Stars"></a>
+  <a href="https://github.com/Ryukotsuki/Poke-Manager/issues"><img src="https://img.shields.io/github/issues/Ryukotsuki/Poke-Manager.svg?style=for-the-badge" alt="Issues"></a>
+</p>
 
 ---
 
-## 📸 **Media Showcase**  
-<div align="left">
+## ✨ Features
 
-<img width="1200" height="875" alt="PokeManager" src="https://github.com/user-attachments/assets/ab83051d-6622-4509-8f5b-0e3f4b143e1b" />
-<img width="804" height="735" alt="ModBrowser" src="https://github.com/user-attachments/assets/329be47d-68ff-4c03-ae09-a5e6b9aadd2c" />
-<img width="804" height="735" alt="ModBrowser2" src="https://github.com/user-attachments/assets/705b326a-f6d2-4046-81dd-7c8e42806a14" />
-<img width="800" height="715" alt="Manager" src="https://github.com/user-attachments/assets/ccf68d5d-ec10-4a4a-817b-c278c8347974" />
-<img width="1200" height="875" alt="ArchetypeThemeCustomizer" src="https://github.com/user-attachments/assets/09a5776a-b435-47cc-bbee-dd7f1a0feaf6" />
-<img width="1200" height="875" alt="Preset Manager" src="https://github.com/user-attachments/assets/5a09a18e-2a44-423b-b677-b6bcd23241b2" />
-<img width="1920" height="2160" alt="ReShade On Off" src="https://github.com/user-attachments/assets/10a36eab-b910-4382-bf18-08ecb6e19a32" />
+- 🖥️ **One-Click PokeMMO Launcher**  
+  Start PokeMMO directly from the manager.
 
+- 🔳 **True Borderless Mode**  
+  Launch PokeMMO in a cleaner borderless experience for smoother fullscreen-style play.
 
-</div>
+- 🌐 **Mod Browser and Download Center**  
+  Download themes, strings, mods, ReShade presets, and other gameplay enhancements from inside the app.
 
----
+- 🎨 **ReShade Support**  
+  Install and manage ReShade files for a more vibrant PokeMMO visual experience.
 
-## 🚀 **Getting Started with Poke Manager**
+- 🧩 **Archetype Theme Tools**  
+  Install Archetype Theme, update theme revisions, customize colors, and manage presets.
 
-### ⬇️ **Download**
-- Get the latest release from the [GitHub Releases page](https://github.com/Ryukotsuki/PokeMMO-Manager/releases).  
+- 🗂️ **Manager Utilities**  
+  Remove installed mods, clean up ReShade files, and manage common PokeMMO add-on folders.
 
-### 📂 **Directory Setup**
-- Place the application in your main **PokeMMO** folder for optimal functionality.  
-- Create a desktop shortcut for quick access.  
+- 📰 **Community and Forum Links**  
+  Access useful PokeMMO links and resources through the built-in community tools.
 
-### ⚡ **Quick Access**
-- Use the **"Start PokeMMO"** button to launch the game normally or in true borderless mode.
+- 🔄 **Automatic Updates**  
+  Checks GitHub for new Poke Manager and updater releases.
 
-### 📥 **Download Center**
-- Install mods, themes, strings, and ReShade presets directly from the app for hassle-free setup.  
+- 🛡️ **Error Logging**  
+  Captures errors in local logs to make troubleshooting easier.
 
 ---
 
-## 📝 **Important Notes**
-- **Uninstallation**: Use the app’s **"Manager"** button to remove components like ReShade or mods.
-- **Version Checks**: Updates are automatically checked and prompted during startup.
-- **Strings**: Limited to **English**; only one should be used at a time.
+## 📸 Preview
+
+<p align="center">
+  <img width="1200" height="875" alt="Poke Manager main window" src="https://github.com/user-attachments/assets/ab83051d-6622-4509-8f5b-0e3f4b143e1b" />
+</p>
+
+<p align="center">
+  <img width="804" height="735" alt="Mod Browser" src="https://github.com/user-attachments/assets/329be47d-68ff-4c03-ae09-a5e6b9aadd2c" />
+</p>
+
+<p align="center">
+  <img width="804" height="735" alt="Mod Browser downloads" src="https://github.com/user-attachments/assets/705b326a-f6d2-4046-81dd-7c8e42806a14" />
+</p>
+
+<p align="center">
+  <img width="800" height="715" alt="Manager utilities" src="https://github.com/user-attachments/assets/ccf68d5d-ec10-4a4a-817b-c278c8347974" />
+</p>
+
+<p align="center">
+  <img width="1200" height="875" alt="Archetype Theme Customizer" src="https://github.com/user-attachments/assets/09a5776a-b435-47cc-bbee-dd7f1a0feaf6" />
+</p>
+
+<p align="center">
+  <img width="1200" height="875" alt="Preset Manager" src="https://github.com/user-attachments/assets/5a09a18e-2a44-423b-b677-b6bcd23241b2" />
+</p>
+
+<p align="center">
+  <img width="1920" height="2160" alt="ReShade comparison" src="https://github.com/user-attachments/assets/10a36eab-b910-4382-bf18-08ecb6e19a32" />
+</p>
 
 ---
 
-## 💖 **Support and Contributions**  
-If you enjoy **Poke Manager** and want to support its development, consider donating.
-- [Donate via PayPal](https://paypal.me/Ryukotsuki?country.x=US&locale.x=en_US)  
+## 🚀 Getting Started
 
-Have questions or suggestions? Join our community Discord.
+### ⬇️ Download
 
-[![Join Discord](https://github.com/user-attachments/assets/09fb5822-5e82-431b-b9cc-bbd4111ba48b)](https://discord.gg/HdfjKbPNc9)  
+Download the latest release from the [Releases page](https://github.com/Ryukotsuki/Poke-Manager/releases).
+
+### 📂 Recommended Setup
+
+1. Extract the release.
+2. Place Poke Manager in your main **PokeMMO** folder for best compatibility.
+3. Create a desktop shortcut if you want quick access.
+4. Run `PokeManager.exe`.
+
+### ⚡ Quick Start
+
+1. Open Poke Manager.
+2. Click **Start PokeMMO**.
+3. Choose normal launch or true borderless mode.
+4. Use **Mod Browser** to install themes, strings, mods, or ReShade presets.
+5. Use **Manager** to remove or manage installed components.
 
 ---
 
-## 📜 **Disclaimer**  
-This application is not affiliated with [PokeMMO](https://pokemmo.com/) or its developers. It is an independent project aimed at enhancing user experience.
+## 🧭 Common Workflows
+
+### Launch PokeMMO
+
+- Use **Start PokeMMO** for a normal launch.
+- Use true borderless mode for a borderless fullscreen-style experience.
+
+### Install Mods or Themes
+
+1. Open **Mod Browser**.
+2. Pick a category such as themes, strings, mods, or ReShade.
+3. Select an item.
+4. Click **Download Selected**.
+5. Follow any prompts shown by the app.
+
+### Manage Installed Files
+
+1. Open **Manager**.
+2. Choose a cleanup or management action.
+3. Remove ReShade, delete selected mods, update Archetype Theme revision, or open the Archetype Theme Customizer.
+
+### Customize Archetype Theme
+
+1. Install Archetype Theme from the Mod Browser.
+2. Open **Manager**.
+3. Launch **Archetype Theme Customizer**.
+4. Edit colors manually or apply a saved preset.
+5. Press `Ctrl + F5` in PokeMMO if the game is already running.
 
 ---
 
-[contributors-shield]: https://img.shields.io/github/contributors/Ryukotsuki/Poke-Manager.svg?style=for-the-badge  
-[contributors-url]: https://github.com/ryukotsuki/poke-manager/graphs/contributors  
-[downloads-shield]: https://img.shields.io/github/downloads/Ryukotsuki/Poke-Manager/total?style=for-the-badge  
-[downloads-url]: https://github.com/Ryukotsuki/Poke-Manager/releases  
-[forks-shield]: https://img.shields.io/github/forks/Ryukotsuki/Poke-Manager.svg?style=for-the-badge  
-[forks-url]: https://github.com/Ryukotsuki/Poke-Manager/network/members  
-[stars-shield]: https://img.shields.io/github/stars/Ryukotsuki/Poke-Manager.svg?style=for-the-badge  
-[stars-url]: https://github.com/Ryukotsuki/Poke-Manager/stargazers  
-[issues-shield]: https://img.shields.io/github/issues/Ryukotsuki/Poke-Manager.svg?style=for-the-badge  
-[issues-url]: https://github.com/Ryukotsuki/Poke-Manager/issues  
+## 📝 Notes
+
+- 🪟 **Windows only**: Poke Manager is built for Windows desktop use.
+- 📁 **Install location**: Placing the app inside your main PokeMMO folder gives the best experience.
+- 🌐 **Internet required**: Downloads, update checks, presets, and some community links require internet access.
+- 🔤 **Strings**: Strings are limited to English, and only one strings package should be used at a time.
+- 🎮 **Game state**: Some actions may ask you to close PokeMMO before installing or removing files.
+- 🛠️ **Troubleshooting**: Check the local `logs` folder if something fails.
+
+## 💖 Support
+
+If Poke Manager helps you, a star on GitHub goes a long way.
+
+- ⭐ Star the repository
+- 🐛 Report bugs through [Issues](https://github.com/Ryukotsuki/Poke-Manager/issues)
+- 💡 Suggest improvements or new features
+- 💸 [Donate via PayPal](https://paypal.me/Ryukotsuki?country.x=US&locale.x=en_US)
+
+### 💬 Community
+
+Have questions, feedback, or want to share your setup? Join the Discord:
+
+<p align="center">
+  <a href="https://discord.gg/HdfjKbPNc9">
+    <img src="https://github.com/user-attachments/assets/09fb5822-5e82-431b-b9cc-bbd4111ba48b" alt="Join Discord" />
+  </a>
+</p>
+
+---
+
+## 📜 Disclaimer
+
+Poke Manager is an independent fan-made utility. It is not affiliated with, endorsed by, or officially connected to [PokeMMO](https://pokemmo.com/) or its developers.
+
+---
+
+<p align="center">
+  Built to make PokeMMO setup, launching, and customization easier. ✨
+</p>
