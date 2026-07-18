@@ -5,7 +5,7 @@
 <h1 align="center">Poke Manager</h1>
 
 <p align="center">
-  A Windows utility built to make PokeMMO setup, launching, mod management, ReShade installs, and borderless play easier.
+  A desktop utility for Windows, macOS, and Linux that makes PokeMMO launching, mod management, ReShade installs, and add-on cleanup easier.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
   Access useful PokeMMO links and resources through the built-in community tools.
 
 - 🔄 **Automatic Updates**  
-  Checks GitHub for new Poke Manager and updater releases.
+  Checks GitHub for new Poke Manager directory releases and installs them without a separate updater app.
 
 - 🛡️ **Error Logging**  
   Captures errors in local logs to make troubleshooting easier.
@@ -89,17 +89,19 @@ Download the latest release from the [Releases page](https://github.com/Ryukotsu
 ### 📂 Recommended Setup
 
 1. Extract the release.
-2. Place Poke Manager in your main **PokeMMO** folder for best compatibility.
+2. Keep the extracted **PokeManager** folder wherever you want the app installed. On macOS, move `PokeManager.app` to your **Applications** folder.
 3. Create a desktop shortcut if you want quick access.
-4. Run `PokeManager.exe`.
+4. Run the platform build: `PokeManager.exe` on Windows, `PokeManager.desktop` or `PokeManager` on Linux, or `PokeManager.app` on macOS.
+5. Select your main **PokeMMO** folder when prompted.
 
 ### ⚡ Quick Start
 
 1. Open Poke Manager.
-2. Click **Start PokeMMO**.
-3. Choose normal launch or true borderless mode.
-4. Use **Mod Browser** to install themes, strings, mods, or ReShade presets.
-5. Use **Manager** to remove or manage installed components.
+2. Select your PokeMMO folder if this is the first launch.
+3. Click **Start PokeMMO**.
+4. Choose normal launch or true borderless mode.
+5. Use **Mod Browser** to install themes, strings, mods, or ReShade presets.
+6. Use **Manager** to remove or manage installed components.
 
 ---
 
@@ -136,12 +138,16 @@ Download the latest release from the [Releases page](https://github.com/Ryukotsu
 
 ## 📝 Notes
 
-- 🪟 **Windows only**: Poke Manager is built for Windows desktop use.
-- 📁 **Install location**: Placing the app inside your main PokeMMO folder gives the best experience.
+- 🖥️ **Platform support**: Core launching, mod management, downloads, and update checks support Windows, macOS, and Linux. Windows still has the most complete true-borderless window manipulation.
+- 📁 **Install location**: Poke Manager no longer needs to be inside your PokeMMO folder. The selected PokeMMO path is saved in `Runtime/settings.json`.
+- 🐧 **Linux icon note**: Linux file managers usually cannot show a custom icon on a raw executable file. Poke Manager auto-installs a user app-menu launcher on first packaged launch. You can still use `PokeManager.desktop` or `Install Linux Launcher.sh` manually if needed.
+- 🍎 **macOS launch note**: Move `PokeManager.app` to **Applications**, then open it from Finder or run `open /Applications/PokeManager.app`. A `.app` is a bundle directory, not a terminal executable.
 - 🌐 **Internet required**: Downloads, update checks, presets, and some community links require internet access.
 - 🔤 **Strings**: Strings are limited to English, and only one strings package should be used at a time.
 - 🎮 **Game state**: Some actions may ask you to close PokeMMO before installing or removing files.
-- 🛠️ **Troubleshooting**: Check the local `logs` folder if something fails.
+- 🛠️ **Troubleshooting**: Check `Runtime/logs` if something fails.
+
+---
 
 ## 💖 Support
 
