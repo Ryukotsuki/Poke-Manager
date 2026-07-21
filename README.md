@@ -26,7 +26,7 @@
   Start PokeMMO directly from the manager.
 
 - 🔳 **True Borderless Mode**  
-  Launch PokeMMO in a cleaner borderless experience for smoother fullscreen-style play.
+  Launch PokeMMO in true borderless mode for a seamless fullscreen experience.
 
 - 🌐 **Mod Browser and Download Center**  
   Download themes, strings, mods, ReShade presets, and other gameplay enhancements from inside the app.
@@ -96,15 +96,6 @@ Download the latest release from the [Releases page](https://github.com/Ryukotsu
 3. Create a desktop shortcut if you want quick access.
 4. Run the platform build: `PokeManager.exe` on Windows, `PokeManager.desktop` or `PokeManager` on Linux, or `PokeManager.app` on macOS.
 5. Select your main **PokeMMO** folder when prompted.
-
-### ⚡ Quick Start
-
-1. Open Poke Manager.
-2. Select your PokeMMO folder if this is the first launch.
-3. Click **Start PokeMMO**.
-4. Choose normal launch or true borderless mode.
-5. Use **Mod Browser** to install themes, strings, mods, or ReShade presets.
-6. Use **Manager** to remove or manage installed components.
 
 ---
 
