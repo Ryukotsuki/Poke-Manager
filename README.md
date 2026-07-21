@@ -41,7 +41,7 @@
   Access useful PokeMMO links and resources through the built-in community tools.
 
 - 🔄 **Automatic Updates**  
-  Checks GitHub for new Poke Manager directory releases and installs them without a separate updater app.
+  Checks GitHub for new Poke Manager releases and automatically installs them.
 
 - 🛡️ **Error Logging**  
   Captures errors in local logs to make troubleshooting easier.
@@ -142,7 +142,6 @@ Download the latest release from the [Releases page](https://github.com/Ryukotsu
 - 📁 **Install location**: Poke Manager no longer needs to be inside your PokeMMO folder. The selected PokeMMO path is saved in `Runtime/settings.json`.
 - 🐧 **Linux icon note**: Linux file managers usually cannot show a custom icon on a raw executable file. Poke Manager auto-installs a user app-menu launcher on first packaged launch. You can still use `PokeManager.desktop` or `Install Linux Launcher.sh` manually if needed.
 - 🍎 **macOS launch note**: Move `PokeManager.app` to **Applications**, then open it from Finder or run `open /Applications/PokeManager.app`. A `.app` is a bundle directory, not a terminal executable.
-- 🌐 **Internet required**: Downloads, update checks, presets, and some community links require internet access.
 - 🔤 **Strings**: Strings are limited to English, and only one strings package should be used at a time.
 - 🎮 **Game state**: Some actions may ask you to close PokeMMO before installing or removing files.
 - 🛠️ **Troubleshooting**: Check `Runtime/logs` if something fails.
