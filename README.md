@@ -2,11 +2,14 @@
   <img src="https://github.com/Ryukotsuki/Poke-Manager/assets/50199421/0dce132b-8882-4ca0-9719-43e03903c6e9" alt="Poke Manager logo" width="520" />
 </p>
 
-<h1 align="center">Poke Manager</h1>
+<h1 align="center">✨ Poke Manager ✨</h1>
 
 <p align="center">
-  A desktop utility for Windows, macOS, and Linux that makes PokeMMO launching, mod management, ReShade installs, and add-on cleanup easier.
+  A desktop utility for launching PokeMMO, managing mods, installing ReShade, customizing archetype, and add-on cleanup easier.
 </p>
+<p align="center">
+  🖥️ Windows • 💻 macOS • 💻 Linux
+</p>  
 
 <p align="center">
   <a href="https://github.com/Ryukotsuki/Poke-Manager/releases"><img src="https://img.shields.io/github/v/release/Ryukotsuki/Poke-Manager?style=for-the-badge&label=Latest%20Release" alt="Latest release"></a>
