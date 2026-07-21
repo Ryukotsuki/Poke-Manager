@@ -54,27 +54,26 @@
 ## 📸 Preview
 
 <p align="center">
-  <img width="1200" height="875" alt="Poke Manager main window" src="https://github.com/user-attachments/assets/ab83051d-6622-4509-8f5b-0e3f4b143e1b" />
+  <img width="1200" height="875" alt="Poke Manager" src="https://github.com/user-attachments/assets/fa81d29a-895e-4327-b493-33c4138e60a9" />
 </p>
 
 <p align="center">
-  <img width="1200" height="735" alt="Mod Browser" src="https://github.com/user-attachments/assets/329be47d-68ff-4c03-ae09-a5e6b9aadd2c" />
+  <img width="1200" height="735" alt="Mod Browser" src="https://github.com/user-attachments/assets/c4b3f020-e11a-4e7c-919a-54f698795f9b" />
+
+<p align="center">
+  <img width="1200" height="735" alt="Mod Browser2" src="https://github.com/user-attachments/assets/3b4a8cf7-4b15-4ef4-a318-d1d5fdf91b7d" />
 </p>
 
 <p align="center">
-  <img width="1200" height="735" alt="Mod Browser downloads" src="https://github.com/user-attachments/assets/705b326a-f6d2-4046-81dd-7c8e42806a14" />
+  <img width="1200" height="715" alt="Manager" src="https://github.com/user-attachments/assets/9ff21a37-42ba-46de-926b-5893e5157ab8" />
 </p>
 
 <p align="center">
-  <img width="1200" height="715" alt="Manager utilities" src="https://github.com/user-attachments/assets/ccf68d5d-ec10-4a4a-817b-c278c8347974" />
+  <img width="1200" height="875" alt="Archetype Theme Customizer" src="https://github.com/user-attachments/assets/73bf028e-fb37-4f01-8afe-a2c10d91fe35" />
 </p>
 
 <p align="center">
-  <img width="1200" height="875" alt="Archetype Theme Customizer" src="https://github.com/user-attachments/assets/09a5776a-b435-47cc-bbee-dd7f1a0feaf6" />
-</p>
-
-<p align="center">
-  <img width="1200" height="875" alt="Preset Manager" src="https://github.com/user-attachments/assets/5a09a18e-2a44-423b-b677-b6bcd23241b2" />
+  <img width="1200" height="875" alt="Preset Manager" src="https://github.com/user-attachments/assets/b1db11a2-89f2-4cb1-b66e-310be7730333" />
 </p>
 
 <p align="center">
