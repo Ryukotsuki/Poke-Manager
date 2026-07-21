@@ -55,15 +55,15 @@
 </p>
 
 <p align="center">
-  <img width="804" height="735" alt="Mod Browser" src="https://github.com/user-attachments/assets/329be47d-68ff-4c03-ae09-a5e6b9aadd2c" />
+  <img width="1200" height="735" alt="Mod Browser" src="https://github.com/user-attachments/assets/329be47d-68ff-4c03-ae09-a5e6b9aadd2c" />
 </p>
 
 <p align="center">
-  <img width="804" height="735" alt="Mod Browser downloads" src="https://github.com/user-attachments/assets/705b326a-f6d2-4046-81dd-7c8e42806a14" />
+  <img width="1200" height="735" alt="Mod Browser downloads" src="https://github.com/user-attachments/assets/705b326a-f6d2-4046-81dd-7c8e42806a14" />
 </p>
 
 <p align="center">
-  <img width="800" height="715" alt="Manager utilities" src="https://github.com/user-attachments/assets/ccf68d5d-ec10-4a4a-817b-c278c8347974" />
+  <img width="1200" height="715" alt="Manager utilities" src="https://github.com/user-attachments/assets/ccf68d5d-ec10-4a4a-817b-c278c8347974" />
 </p>
 
 <p align="center">
