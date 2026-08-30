@@ -33,7 +33,7 @@
             "counter-font-border": "#233031"
         },
         "description": "Bright cyan accents on a deep blue-gray background for an original, high contrast UI look.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Original.png",
+        "image": "Original.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -76,7 +76,7 @@
             "counter-font-border": "#233031"
         },
         "description": "Original Archetype styling with bright green accents on the classic blue-gray background.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Original%20Green.png",
+        "image": "Original Green.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -119,7 +119,7 @@
             "counter-font-border": "#233031"
         },
         "description": "Original Archetype styling with vivid pink accents on the classic blue-gray background.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Original%20Pink.png",
+        "image": "Original Pink.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -162,7 +162,7 @@
             "counter-font-border": "#233031"
         },
         "description": "Original Archetype styling with rich purple accents on the classic blue-gray background.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Original%20Purple.png",
+        "image": "Original Purple.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -205,7 +205,7 @@
             "counter-font-border": "#233031"
         },
         "description": "Original Archetype styling with bold red accents on the classic blue-gray background.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Original%20Red.png",
+        "image": "Original Red.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -248,7 +248,7 @@
             "counter-font-border": "#233031"
         },
         "description": "Original Archetype styling with sunny yellow accents on the classic blue-gray background.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Original%20Yellow.png",
+        "image": "Original Yellow.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -291,7 +291,7 @@
             "counter-font-border": "#050609"
         },
         "description": "Industrial, forge-inspired dark steel palette with cool gray surfaces, for a tempered metal feel.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Forge.png",
+        "image": "Forge.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -334,7 +334,7 @@
             "counter-font-border": "#1f1f1f"
         },
         "description": "Pure dark theme with near black backgrounds for a sharp, material-inspired look.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Dark%20Material.png",
+        "image": "Dark Material.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -377,7 +377,7 @@
             "counter-font-border": "#1f1f1f"
         },
         "description": "Soft, cozy dark palette with inky violet backgrounds, inspired by the Catppuccin Mocha Palette.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Catppuccin%20Mocha.png",
+        "image": "Catppuccin Mocha.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -420,7 +420,7 @@
             "counter-font-border": "#0A0810"
         },
         "description": "Dusky violet theme with muted jewel-tone accents and deep night-sky backgrounds.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Twilight.png",
+        "image": "Twilight.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -463,7 +463,7 @@
             "counter-font-border": "#0A0F0C"
         },
         "description": "Deep forest-green theme with vivid botanical accents and a near-black background.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/420%20Green.png",
+        "image": "420 Green.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
@@ -506,7 +506,7 @@
             "counter-font-border": "#0B0706"
         },
         "description": "Warm ember-orange accents over smoky brown-black surfaces for a fiery dark theme.",
-        "image": "https://raw.githubusercontent.com/Ryukotsuki/Poke-Manager/main/Archetype/Images/Ember.png",
+        "image": "Ember.png",
         "look": {
             "Login": "Unova.xml",
             "Cursors": "Cursors-Black.xml",
